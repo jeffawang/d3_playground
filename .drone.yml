@@ -1,0 +1,6 @@
+build:
+  image: centos6
+  commands:
+    - ls
+    - pwd
+    - echo hi
